@@ -1,0 +1,1 @@
+print('Do not use my pc without tamanna permission')
